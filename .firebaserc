@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-fotos-a5a48": {
+      "hosting": {
+        "fileupload": [
+          "fir-fotos-a5a48"
+        ]
+      }
+    }
+  }
+}
